@@ -1,68 +1,54 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Administrador de Citas para Veterinaria.
 
-## Available Scripts
+_Aplicacion para la administración de pacientes en una Veterinaria_
 
-In the project directory, you can run:
+## Comenzando 🚀
 
-### `npm start`
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Instalación 🔧
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+_Clonar el repositorio e instalar dependencias._
 
-### `npm test`
+```
+git clone https://github.com/hernandiazz9/administradorcitas.git
+```
+```
+npm install
+```
+```
+npm start 
+```
+ localhost:3000
+ 
+## Construido con 🛠️
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Algunas de las tecnologías utlizadas_
 
-### `npm run build`
+* [Create-react-app](https://reactjs.org/) - Libreria web de Javascript.
+* [NPM](https://www.npmjs.com/) - Manejador de dependencias
+* [Breaking Bad](https://breaking-bad-quotes.herokuapp.com/v1/quotes) - Api para obtener frases de Braking Bad
+* [Styled Component](https://emotion.sh/docs/styled) - Libreria para estilos en Javascript.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Autores ✒️
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+_Este proyecto lo realice mientras me capacitaba en la librería  **React js**_
 
-### `npm run eject`
+## Demo 🎬 
+* [Frases Breaking Bad](https://breakingbadhdd.netlify.app/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Expresiones de Gratitud 🎁
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Es un buen proyecto para practicar la obtención  de datos desde una API 📢
+* Invito una cerveza 🍺 y un café ☕ a [**Juan de la Torrez Valdez**](https://www.udemy.com/user/juanpablodelatorrevaldez/)
+* Un gran profesor y con muy buen material de estudio! 🤓.
+* MUCHISIMAS GRACIAS POR LEER!.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+pd: Hay mas **Proyectos**!!!
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
+⌨️ con ❤️ por [HDDesign](https://github.com/hernandiazz9) 😊
