@@ -19,7 +19,7 @@ npm install
 ```
 npm start 
 ```
- ###### localhost:3000
+ #### localhost:3000
  
 ## Construido con 🛠️
 
@@ -27,13 +27,11 @@ _Algunas de las tecnologías utlizadas_
 
 * [Create-react-app](https://reactjs.org/) - Libreria web de Javascript.
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
-* [Breaking Bad](https://breaking-bad-quotes.herokuapp.com/v1/quotes) - Api para obtener frases de Braking Bad
-* [Styled Component](https://emotion.sh/docs/styled) - Libreria para estilos en Javascript.
-
 
 ## Autores ✒️
 
-_Este proyecto lo realice mientras me capacitaba en la librería  **React js**_
+_Este proyecto lo realice mientras me capacitaba en la librería.**React js**_
+_La aplicación  guarda los datos en **localstorage_
 
 ## Demo 🎬 
 * [Frases Breaking Bad](https://breakingbadhdd.netlify.app/)
