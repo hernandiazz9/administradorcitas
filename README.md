@@ -30,11 +30,11 @@ _Algunas de las tecnologías utlizadas_
 
 ## Autores ✒️
 
-_Este proyecto lo realice mientras me capacitaba en la librería.**React js**_
-_La aplicación  guarda los datos en **localstorage_
+_Este proyecto lo realice mientras me capacitaba en la librería. **React js**_
+_La aplicación guarda los datos en **localstorage**_
 
 ## Demo 🎬 
-* [Frases Breaking Bad](https://breakingbadhdd.netlify.app/)
+* [Administrador de citas](https://citashdd.netlify.app)
 
 
 ## Expresiones de Gratitud 🎁
